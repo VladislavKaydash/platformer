@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\howplay.o
+./release\setting.o
+./release\jsondata.o
+./release\view.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_howplay.o
+./release\moc_setting.o
+./release\moc_jsondata.o
+);
